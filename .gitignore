@@ -221,3 +221,6 @@ __marimo__/
 
 # .env folder
 .env
+
+#folder where image is located 
+image_dir/
